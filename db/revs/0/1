@@ -1,0 +1,25 @@
+id: 0-1.0.r1/0
+type: dir
+count: 0
+cpath: /Manabot2Test
+copyroot: 0 /
+
+PLAIN
+K 12
+Manabot2Test
+V 14
+dir 0-1.0.r1/0
+END
+ENDREP
+id: 0.0.r1/125
+type: dir
+pred: 0.0.r0/17
+count: 1
+text: 1 70 42 42 310b5f0e5c0508071d974f7fdb0fbfcd
+cpath: /
+copyroot: 0 /
+
+_0.0.t0-0 add-dir false false /Manabot2Test
+
+
+125 249
